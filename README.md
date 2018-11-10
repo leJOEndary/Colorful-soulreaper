@@ -11,6 +11,20 @@ game ends when the score reaches zero.
 
 
 
+## Controls
+#### ● Windows:
+1. The player moves left and right using the left arrow and right arrow, or A and D.
+2. The player should be able to switch between cameras by pressing C.
+3. The player pauses and resumes by pressing the esc button.
+#### ● Android:
+1. The player moves right and left according to the x-axis of the accelerometer.
+2. The player should be able to switch between cameras by pressing on a camera
+button on the bottom right/left of the screen.
+3. The player pauses by pressing on a pause button on the top left/right of the
+screen.
+
+
+
 ## Screens
 #### 1. Title Screen
     a. Start Game
@@ -28,15 +42,3 @@ game ends when the score reaches zero.
     b. Quit
 
 
-
-## Controls
-#### ● Windows:
-1. The player moves left and right using the left arrow and right arrow, or A and D.
-2. The player should be able to switch between cameras by pressing C.
-3. The player pauses and resumes by pressing the esc button.
-#### ● Android:
-1. The player moves right and left according to the x-axis of the accelerometer.
-2. The player should be able to switch between cameras by pressing on a camera
-button on the bottom right/left of the screen.
-3. The player pauses by pressing on a pause button on the top left/right of the
-screen.
