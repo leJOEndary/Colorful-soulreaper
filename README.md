@@ -13,19 +13,19 @@ game ends when the score reaches zero.
 
 ## Screens
 1. Title Screen
-a. Start Game
-b. Options
-i. Mute Sound
-ii. How to Play
-iii. Credits
-iv. High Score/Hall of Fame (Optional)
+    a. Start Game
+    b. Options
+         i. Mute Sound
+         ii. How to Play
+         iii. Credits
+         iv. High Score
 2. Game Pause Screen
-a. Resume
-b. Restart
-c. Quit
+    a. Resume
+    b. Restart
+    c. Quit
 3. Game Over Screen
-a. Restart
-b. Quit
+    a. Restart
+    b. Quit
 
 
 
@@ -35,8 +35,8 @@ b. Quit
 2. The player should be able to switch between cameras by pressing C.
 3. The player pauses and resumes by pressing the esc button.
 #### ● Android:
-* 1. The player moves right and left according to the x-axis of the accelerometer.
-* 2. The player should be able to switch between cameras by pressing on a camera
+1. The player moves right and left according to the x-axis of the accelerometer.
+2. The player should be able to switch between cameras by pressing on a camera
 button on the bottom right/left of the screen.
-* 3. The player pauses by pressing on a pause button on the top left/right of the
+3. The player pauses by pressing on a pause button on the top left/right of the
 screen.
