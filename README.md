@@ -12,18 +12,18 @@ game ends when the score reaches zero.
 
 
 ## Screens
-1. Title Screen
+#### 1. Title Screen
     a. Start Game
     b. Options
          i. Mute Sound
          ii. How to Play
          iii. Credits
          iv. High Score
-2. Game Pause Screen
+#### 2. Game Pause Screen
     a. Resume
     b. Restart
     c. Quit
-3. Game Over Screen
+#### 3. Game Over Screen
     a. Restart
     b. Quit
 
