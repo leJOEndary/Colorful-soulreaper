@@ -1,4 +1,4 @@
-# Colorful-soulreaper
+# Colorful Soulreaper
 
 ## Gameplay
 The player controls a colored Sphere that moves forward automatically on an infinite
