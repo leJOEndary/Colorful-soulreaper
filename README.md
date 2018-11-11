@@ -19,8 +19,8 @@ game ends when the score reaches zero.
 #### ● Android:
 1. The player moves right and left according to the x-axis of the accelerometer.
 2. The player should be able to switch between cameras by pressing on a camera
-button on the bottom right/left of the screen.
-3. The player pauses by pressing on a pause button on the top left/right of the
+button on the bottom left of the screen.
+3. The player pauses by pressing on a pause button on the top right of the
 screen.
 
 
@@ -36,9 +36,9 @@ screen.
 #### 2. Game Pause Screen
     a. Resume
     b. Restart
-    c. Quit
+    c. Back to Menu
 #### 3. Game Over Screen
     a. Restart
-    b. Quit
+    b. Back to Menu
 
 
